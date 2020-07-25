@@ -1,0 +1,1 @@
+web: python3 project0/manage.py runserver
